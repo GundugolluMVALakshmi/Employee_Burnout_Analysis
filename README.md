@@ -39,6 +39,30 @@ To develop a machine learning model that predicts the likelihood of employee bur
 
 ---
 
+## 🚀 How to Run
+
+### 1. Clone the Repository:
+
+Clone the project to your local machine using the following command:
+
+```bash
+git clone https://github.com/GundugolluMVALakshmi/Employee_Burnout_Analysis.git
+````
+
+### 2. Install Dependencies:
+
+Make sure you have **Python** installed. Then, install the required libraries using the following command:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
+
+### 3. Run the Project:
+
+After installing the dependencies, open the **Jupyter Notebook** file (`employee_burnout_analysis.ipynb`) to see the detailed analysis, data preprocessing steps, and model training.
+
+---
+
 ## 🧠 Model Details
 
 * **Problem Type:** Classification
@@ -79,4 +103,3 @@ To develop a machine learning model that predicts the likelihood of employee bur
 AI-ML Internship – IBM Edunet Program
 
 ---
-
